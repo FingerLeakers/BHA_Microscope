@@ -28,7 +28,7 @@ The BioHack Academy 3 release contains the following:
 * Improve barrel attachment clip
 * Fine tuning mechanism
 * XY platform
-* Analog light regulation
+
 
 Please maket more suggestions by posting in the Issues section of this GitHub Repo.
 
